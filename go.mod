@@ -1,4 +1,4 @@
-module SongRequests
+module github.com/TheL1ne/Songrequests
 
 go 1.25.1
 
